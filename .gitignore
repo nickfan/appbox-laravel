@@ -1,0 +1,19 @@
+
+# Composer
+/vendor
+composer.phar
+composer.lock
+
+# OS
+.DS_Store
+Thumbs.db
+.idea/
+vagrant
+.vagrant
+
+# Packages
+_ide_helper.php
+/node_modules
+.bundle
+.sass-cache
+.tmp

@@ -1,0 +1,23 @@
+{
+    "name": "nickfan/appbox-laravel",
+    "description": "",
+    "authors": [
+        {
+            "name": "nickfan",
+            "email": "nickfan81@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Nickfan\\AppboxLaravel\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
